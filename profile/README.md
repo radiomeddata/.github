@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.radiomeddata.com/">
-    <img src="imgs/Radiomeddata Logo-01(1024x576).png" alt="RadioMedData Logo" height="320" />
+    <img src=".github/imgs/Radiomeddata Logo-01(1024x576).png" alt="RadioMedData Logo" height="320" />
   </a>
 </p>
 
